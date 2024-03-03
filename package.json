@@ -1,0 +1,28 @@
+{
+  "name": "bonus",
+  "version": "1.0.0",
+  "description": "Bonus-System for collecting benefits from parents",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsgvision/bonus.git"
+  },
+  "keywords": [
+    "bonus",
+    "children",
+    "behavior",
+    "highscore"
+  ],
+  "author": "Bünyamin Bir and friends",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/dsgvision/bonus/issues"
+  },
+  "homepage": "https://github.com/dsgvision/bonus#readme",
+  "dependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
